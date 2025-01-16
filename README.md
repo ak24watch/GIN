@@ -39,11 +39,31 @@ The training and validation accuracies are plotted for each epoch and saved as a
 
 The best validation accuracy for each dataset is plotted and saved as an image file. This plot provides a comparison of the model's performance across different datasets.
 
-### Example Plots
+
+###  Plots
+
+Here are some example plots generated during the training process:
 
 #### Training and Validation Accuracy for MUTAG
-
 ![Training and Validation Accuracy for MUTAG](accuracy_plot_MUTAG.png)
+
+#### Training and Validation Accuracy for PTC
+![Training and Validation Accuracy for PTC](accuracy_plot_PTC.png)
+
+#### Training and Validation Accuracy for NCI1
+![Training and Validation Accuracy for NCI1](accuracy_plot_NCI1.png)
+
+#### Training and Validation Accuracy for PROTEINS
+![Training and Validation Accuracy for PROTEINS](accuracy_plot_PROTEINS.png)
+
+#### Training and Validation Accuracy for COLLAB
+![Training and Validation Accuracy for COLLAB](accuracy_plot_COLLAB.png)
+
+#### Training and Validation Accuracy for IMDBBINARY
+![Training and Validation Accuracy for IMDBBINARY](accuracy_plot_IMDBBINARY.png)
+
+#### Training and Validation Accuracy for IMDBMULTI
+![Training and Validation Accuracy for IMDBMULTI](accuracy_plot_IMDBMULTI.png)
 
 #### Best Validation Accuracy Across Datasets
 
