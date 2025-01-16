@@ -86,14 +86,19 @@ pip install dgl torch numpy scikit-learn plotly
 
 ## Example
 
-To train the model on the MUTAG dataset and plot the accuracies, run:
+To train the model on the MUTAG dataset  run:
 
 ```bash
-python main.py --dataset MUTAG --plot
+python main.py --dataset MUTAG
 ```
 
+To plot the accuracy run:
+
+```bash
+python main.py --plot
+```
 This will generate the following plots:
-- `accuracy_plot_MUTAG.png`: Training and validation accuracy for the MUTAG dataset.
+- `accuracy_plot_MUTAG.png`: Training and validation accuracy for each dataset
 - `best_accuracy_plot.png`: Best validation accuracy across all datasets.
 
 ## License
