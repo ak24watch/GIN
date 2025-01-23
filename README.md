@@ -1,6 +1,6 @@
 # Graph Isomorphism Network (GIN) Training and Evaluation
 
-This project implements a Graph Isomorphism Network (GIN) for graph classification tasks using the DGL library. The model is trained and evaluated on various graph datasets, and the training and validation accuracies are plotted for analysis.
+This project implements a Graph Isomorphism Network (GIN) for graph classification tasks using the DGL library, based on [How Powerful are Graph Neural Networks?](https://arxiv.org/abs/1810.00826) The model is trained and evaluated on various graph datasets, and the training and validation accuracies are plotted for analysis.
 
 ## Datasets
 
